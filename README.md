@@ -4,7 +4,7 @@ A web application which aims to facilitate the management system of a hotel. It 
 
 ## Mission
 
-Our mission is to create a new application, with cutting-edge technologies which are user friendly in usage and robust in operation, aiming to facilitate the management system of a hotel. Our team will accomplish this while providing superior quality and real commitment. Giving personal attention to each step of the project is essential to providing a fully structured and a quality software engineering project.
+Our mission is to create a new application, with cutting-edge technologies which are user friendly in usage and robust in operation, aiming to facilitate the management system of an existing hotel. Our team will accomplish this while providing superior quality and real commitment. Giving personal attention to each step of the project is essential to providing a fully structured and a quality software engineering project.
 
 ## Application Features
 
